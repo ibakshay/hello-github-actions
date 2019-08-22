@@ -9,4 +9,4 @@ jobs:
     - uses: actions/checkout@master
     - uses: ./action-a
       env:
-        MY_NAME: "Akshay Iyyadurai Balasundaram"
+        MY_NAME: "Mona"
